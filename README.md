@@ -16,7 +16,7 @@ The goal of this project is to analyze **customer churn and revenue trends** for
 - **Customer Segmentation:** Categorized customers based on subscription plans and regions.  
 
 ## Dashboard Screenshots
-![Customer Churn Dashboard](https://ggl.link/dub)  
+![Customer Churn Dashboard](https://shorturl.at/wP7Ox)  
 *Example dashboard showing churn, revenue, and high-paying customers.*
 
 ## How to Use
