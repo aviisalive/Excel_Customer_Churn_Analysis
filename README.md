@@ -16,8 +16,8 @@ The goal of this project is to analyze **customer churn and revenue trends** for
 - **Customer Segmentation:** Categorized customers based on subscription plans and regions.  
 
 ## Dashboard Screenshots
-[https://github.com/aviisalive/Excel_Customer_Churn_Analysis/blob/main/README.md
-](https://shorturl.at/tfYqQ)
+![Dashboard Screenshot](https://github.com/aviisalive/Excel_Customer_Churn_Analysis/blob/main/Image 1.png?raw=true)
+
 ## How to Use
 1. Open the Excel file `Excel_Practice_YourName.xlsx`.  
 2. Explore the **Customer_Churn** sheet.  
